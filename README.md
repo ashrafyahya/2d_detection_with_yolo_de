@@ -9,8 +9,14 @@ Um direkt mit Objekterkennung zu starten, sehen Sie [Yolo_detection](yolo_detect
 
 ### Beispiele für de Erkennung mit Yolo:
 
-Erkennung von ![Maus](Bilder/mausErkennung.png)
+Erkennung von Maus:
 
-Erkennung von ![Tastatur](Bilder/tastaturErkennung.png)
+![Maus](Bilder/mausErkennung.png)
 
-Erkennung mit ![Segmentierung](Bilder/Yolo_Segmentierungsbeispiel.png)
+Erkennung von Tastatur 
+
+![Tastatur](Bilder/tastaturErkennung.png)
+
+Erkennung mit Segmentierung 
+
+![Segmentierung](Bilder/Yolo_Segmentierungsbeispiel.png)
